@@ -1,4 +1,4 @@
-name: release
+name: periodic-release
 
 on:
   repository_dispatch:
